@@ -1,0 +1,36 @@
+
+body {
+  min-height: 100%;
+  margin: 0;
+}
+body {
+  background-image: url(../Raduo/Screenshot\ 2026-11-12\ 183334.png);
+  background-size: cover;
+  background-position: center;  
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+}
+header .section1 h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(255, 255, 255);
+    margin-left: 150px;
+    margin-top: 270px;
+}
+header .section2 h2 {
+    margin-left: 146px;
+    color: white;
+}
+header .section3 a {
+    color: white;
+    text-decoration: none;
+    padding: 8px;
+    box-shadow: 0 0 7px white;
+    border-radius: 12px;
+    margin-left: 140px;
+}
+header .section4 p {
+    color: rgb(255, 255, 255);
+    width: 500px;
+    margin-left: 140px;
+    font-size: 20px;
+}
